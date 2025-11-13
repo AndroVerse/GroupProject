@@ -37,12 +37,14 @@ The following REQUIRED files are included:
 The following BONUS features are implemented:
 
 - [x] Added digital wireframe/mockup image(s)
-- [x] Added a Video/GIF of an interactive prototype
+- [] Added a Video/GIF of an interactive prototype
 
 The following EXTRA features are implemented:
 
-- [x] List anything else that you added to improve your submission!
+- [x] Make sure to use coding language that will have the app run smoothly and prevent it from crashing.
 
 ## Notes
 
 Here's a place for any other notes on this milestone!
+
+Unforunately, my fellow team members did not help me. Therefore, I did this part of the project by myself. I have reached out via canvas inbox, and group me in regards to getting started on the project.

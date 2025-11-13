@@ -147,47 +147,14 @@ Required Feature
 
 Screen 1: Search (Default State)
 
-+--------------------------------------+
-| =  CourseMatch                        |
-+--------------------------------------+
-|                                      |
-|   [ Enter Course Code ]              |
-|                                      |
-|   [ Enter Course Name ]              |
-|                                      |
-|                                      |
-|        [ Find Substitution ]         |
-|                                      |
-|                                      |
-|                                      |
-|                                      |
-|                                      |
-|                                      |
-+--------------------------------------+
+<img width="357" height="437" alt="image" src="https://github.com/user-attachments/assets/7adc4cb6-4003-4d57-a3bf-75aa39357f21" />
+
 
 
 Screen 2: Search (Result State)
 
-+--------------------------------------+
-| =  CourseMatch                        |
-+--------------------------------------+
-|                                      |
-|   [ CS101           ]              |
-|                                      |
-|   [ Intro to Programming ]           |
-|                                      |
-|                                      |
-|        [ Find Substitution ]         |
-|                                      |
-|   ---------------------------------- |
-|                                      |
-|    Substitute Course:                |
-|    CS105 - Python Fundamentals       |
-|                                      |
-|    Notes: Same credit, different     |
-|    language.                         |
-|                                      |
-+--------------------------------------+
+<img width="355" height="510" alt="image" src="https://github.com/user-attachments/assets/539e5a40-72b4-4848-a2fe-8b43af05d771" />
+
 
 
 ### [BONUS] Interactive Prototype

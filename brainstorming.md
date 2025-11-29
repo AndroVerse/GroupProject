@@ -85,3 +85,6 @@ New App Ideas - Evaluate and Categorize
 - **Market: College and university students, academic advisors, and registrar offices. Institutions can license the app for integration with their curriculum systems or offer it as a student support tool.**
 - **Habit: Students use the app during course registration, advising appointments, and when planning their semester schedules. Advisors may use it daily during peak advising seasons**
 - **Scope: V1 allows students to input a course name/code and view dummy substitution data. V2 adds filtering by department, credit hours, and semester availability. V3 integrates with real curriculum databases or APIs. V4 introduces advisor-facing tools and multi-campus support.**
+
+
+**FINAL APP IDEA:** **CourseMatch**

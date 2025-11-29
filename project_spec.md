@@ -178,7 +178,9 @@ process, or what you learned this unit!
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/P6E8cib"  ><a href="//imgur.com/a/P6E8cib">CourseMatch</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+Updates made to app
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ytSYqvG"  ><a href="//imgur.com/a/ytSYqvG">CourseMatch1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 

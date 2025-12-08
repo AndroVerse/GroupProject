@@ -23,8 +23,7 @@ The following REQUIRED features are completed:
 - [x] Creation of GitHub Organization and Group Project Repo
 - [x] Updated Course Portal group info with Group Name and App Description
 
-User Features
-Required Features:
+User Required Features for app:
 
 - [x] Course Input: Allow students to input a course name or code.
 - [x] Substitution Search: Instantly find and display valid substitution courses.

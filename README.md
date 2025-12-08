@@ -52,7 +52,7 @@ The following EXTRA features are implemented:
 
 App Video Demo
 
-![Demo Video](https://imgur.com/a/coursematch-final-VWMvxjX.gif)
+https://imgur.com/a/coursematch-final-VWMvxjX.gif
 
 ## Notes
 

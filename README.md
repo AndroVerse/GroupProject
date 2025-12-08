@@ -23,6 +23,14 @@ The following REQUIRED features are completed:
 - [x] Creation of GitHub Organization and Group Project Repo
 - [x] Updated Course Portal group info with Group Name and App Description
 
+User Features
+Required Features:
+
+- [x] Course Input: Allow students to input a course name or code.
+- [x] Substitution Search: Instantly find and display valid substitution courses.
+- [x] View Basic Course Details: Show the substitution's course code, name, credits, and any relevant notes.
+- [x] Local Dummy Data: The app will run on a local "dummy" database (per V1 and the provided code) for initial functionality and testing.
+
 The following REQUIRED files are included:
 
 - [x] Included 📄 `brainstorming.md`, which contains:
@@ -37,7 +45,7 @@ The following REQUIRED files are included:
 The following BONUS features are implemented:
 
 - [x] Added digital wireframe/mockup image(s)
-- [] Added a Video/GIF of an interactive prototype
+- [x] Added a Video/GIF of an interactive prototype
 
 The following EXTRA features are implemented:
 

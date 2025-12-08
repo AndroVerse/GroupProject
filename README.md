@@ -52,7 +52,7 @@ The following EXTRA features are implemented:
 
 App Video Demo
 
-<a href="//imgur.com/a/VWMvxjX">CourseMatch-final</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes
 

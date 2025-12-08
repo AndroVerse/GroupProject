@@ -50,6 +50,10 @@ The following EXTRA features are implemented:
 
 - [x] Make sure to use coding language that will have the app run smoothly and prevent it from crashing.
 
+App Video Demo
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/VWMvxjX"  ><a href="//imgur.com/a/VWMvxjX">CourseMatch-final</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## Notes
 
 Here's a place for any other notes on this milestone!

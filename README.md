@@ -54,6 +54,11 @@ App Video Demo
 
 ![CourseMatch-final](https://github.com/user-attachments/assets/1a255002-bda2-4122-9f7f-2dbec9aa51c4)
 
+Narration of the functionality of the app
+
+https://github.com/user-attachments/assets/e602bd22-6f34-46fc-bc4c-e4faafdbf59d
+
+
 ## Notes
 
 Here's a place for any other notes on this milestone!
